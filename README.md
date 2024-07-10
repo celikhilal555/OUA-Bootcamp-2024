@@ -47,5 +47,3 @@
 7. **Test ve Optimizasyon**
    - Oyunun çeşitli cihazlarda test edilmesi
    - Performans optimizasyonları ve hata düzeltmeleri
-
-Bu bilgilerle projenizi daha net bir şekilde planlayabilirsiniz. Başarılar dilerim!
