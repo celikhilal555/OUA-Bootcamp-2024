@@ -30,6 +30,7 @@
 - Tasarım Grubu Üyeleri: Ulaş, Hilal, Özge.
 - Sprint 1 Board Update: Sprint Board Screenshot
 
+![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/d92f2e05-481b-4347-8e07-2f73d701d08d)
 
 ## Sprint Review:
 
