@@ -61,6 +61,6 @@
 
 ![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/2b48c275-ff48-4efc-87e8-72ee5ee6b832)
 
-## Daliy Scrum ve Ss'ler
+## Daily Scrum ve Ss'ler
 ![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/1dd9d38b-019c-4926-8ade-17c6039939e5)
 
