@@ -25,25 +25,24 @@
 - Hikaye odaklı ve atmosferik oyunları seven oyuncular
 - Yüksek kaliteli grafik ve ses deneyimi arayan oyun tutkunları
 
-## Product Backlog
-1. **Işıklandırma Efektlerinin Geliştirilmesi**
-   - Işık kaynakları ve gölge efektlerinin oluşturulması
-   - Dinamik ışıklandırma ve ışık yansımaları
-2. **Ses Efektlerinin Entegrasyonu**
-   - Çevresel sesler ve hareket bazlı ses efektlerinin eklenmesi
-   - Arka plan müziklerinin seçimi ve düzenlenmesi
-3. **Grafik Tasarımı**
-   - Karakter modellerinin ve çevre öğelerinin tasarımı
-   - Yüksek çözünürlüklü tekstürlerin hazırlanması
-4. **Oynanış Mekaniklerinin Geliştirilmesi**
-   - Temel oyun kontrollerinin ve kullanıcı arayüzünün oluşturulması
-   - Oynanış testlerinin yapılması ve geri bildirimlerin değerlendirilmesi
-5. **Hikaye Anlatımı**
-   - Oyunun senaryosunun yazılması ve diyalogların oluşturulması
-   - Hikaye anlatımına uygun sahnelerin tasarlanması
-6. **Dil Desteği**
-   - Oyun içeriğinin farklı dillere çevrilmesi
-   - Çoklu dil desteği için kullanıcı arayüzünün düzenlenmesi
-7. **Test ve Optimizasyon**
-   - Oyunun çeşitli cihazlarda test edilmesi
-   - Performans optimizasyonları ve hata düzeltmeleri
+## SPRINT 1
+- Tasarım ve Developing Mantığı: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
+- Tasarım Grubu Üyeleri: Ulaş, Hilal, Özge.
+- Sprint 1 Board Update: Sprint Board Screenshot
+
+
+## Sprint Review:
+
+- Map ve karakterlerin sayısına, High poly bir tasarım diline hakim olmasına karar verilmiştir.
+- Sprint Review Katılımcıları: Ulaş Arif Demirdöven, Hilal Karakuş, Özge, Furkan.
+
+## Sprint Retrospective:
+
+- Tasarım grubu ile ayrı toplantı yapıldı. Modelleme konusunda görev dağılımı yapılmıştır.
+- Karakterin hareket animasyonları ve mekanikleri ekleniyor.
+
+## Sprint içinde tamamlanması tahmin edilen puan: 12 Puan
+
+- Daily Scrum: Daily Scrum toplantıları hem WhatsApp üzerinden hem de Discord üzerinden devam etmiştir. Discord'da haftada birkaç gün toplantılar yapılacaktır.
+- Tasarım Discord Grubu Mantığı: Grup içerisinde haritaların ve karakterlerin görsel dili tamamen oturtulmuştur. Bir sonraki map için tasarım dili hazır hale gelmiştir.
+
