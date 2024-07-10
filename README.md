@@ -25,17 +25,20 @@
 - Hikaye odaklı ve atmosferik oyunları seven oyuncular
 - Yüksek kaliteli grafik ve ses deneyimi arayan oyun tutkunları
 
-## Sprint Notes
-
-- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
-- Daily Scrum: Discord üzerinden görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturulmuştur.
-
 ## SPRINT 1
 - Tasarım ve Developing Mantığı: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
 - Tasarım Grubu Üyeleri: Ulaş, Hilal, Özge.
 - Sprint 1 Board Update: Sprint Board Screenshot
 
-![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/d92f2e05-481b-4347-8e07-2f73d701d08d)
+- ## Sprint Notes
+
+- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- Daily Scrum: Discord üzerinden görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturulmuştur.
+
+## Sprint içinde tamamlanması tahmin edilen puan: 12 Puan
+
+- Daily Scrum: Daily Scrum toplantıları hem WhatsApp üzerinden hem de Discord üzerinden devam etmiştir. Discord'da haftada birkaç gün toplantılar yapılacaktır.
+- Tasarım Discord Grubu Mantığı: Grup içerisinde haritaların ve karakterlerin görsel dili tamamen oturtulmuştur. Bir sonraki map için tasarım dili hazır hale gelmiştir.
 
 ## Sprint Review:
 
@@ -47,15 +50,14 @@
 - Tasarım grubu ile ayrı toplantı yapıldı. Modelleme konusunda görev dağılımı yapılmıştır.
 - Karakterin hareket animasyonları ve mekanikleri ekleniyor.
 
-## Sprint içinde tamamlanması tahmin edilen puan: 12 Puan
+  ## Board :
+  
+ - https://trello.com/invite/b/gnMLDmEk/ATTIe871e387c47e570cc3079d9548aa23783077FB2F/luminous-creations
 
-- Daily Scrum: Daily Scrum toplantıları hem WhatsApp üzerinden hem de Discord üzerinden devam etmiştir. Discord'da haftada birkaç gün toplantılar yapılacaktır.
-- Tasarım Discord Grubu Mantığı: Grup içerisinde haritaların ve karakterlerin görsel dili tamamen oturtulmuştur. Bir sonraki map için tasarım dili hazır hale gelmiştir.
-
-## Oyun içi Görseller:
+## SS'LER :
 ![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/adc7bfe7-75ed-4ec4-9f5e-b2c7de77e5f4)
 
 ![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/2b48c275-ff48-4efc-87e8-72ee5ee6b832)
 
-
-
+## Daliy Scrum ve Ss'ler
+![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/d92f2e05-481b-4347-8e07-2f73d701d08d)
