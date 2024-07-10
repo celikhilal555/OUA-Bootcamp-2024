@@ -47,3 +47,10 @@
 - Daily Scrum: Daily Scrum toplantıları hem WhatsApp üzerinden hem de Discord üzerinden devam etmiştir. Discord'da haftada birkaç gün toplantılar yapılacaktır.
 - Tasarım Discord Grubu Mantığı: Grup içerisinde haritaların ve karakterlerin görsel dili tamamen oturtulmuştur. Bir sonraki map için tasarım dili hazır hale gelmiştir.
 
+## Oyun içi Görseller:
+![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/adc7bfe7-75ed-4ec4-9f5e-b2c7de77e5f4)
+
+![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/2b48c275-ff48-4efc-87e8-72ee5ee6b832)
+
+
+
