@@ -1,7 +1,7 @@
 # Luminous Creations
 
 ## Takım Üyeleri
-- **Ulaş Arif Demirdöven** - Proje Yöneticisi
+- **Ulaş ** - Proje Yöneticisi
 - **Hilal** - Yazılım ve Tasarım
 - **Özge** - Tasarım
 - **Furkan** - Yazılım
