@@ -1,10 +1,10 @@
 # Luminous Creations
 
 ## Takım Üyeleri
-- **Ulaş** - Proje Yöneticisi
-- **Hilal** - Yazılım ve Tasarım
-- **Özge** - Tasarım
-- **Furkan** - Yazılım
+- **Ulaş** - Product Owner && Scrum Master
+- **Hilal** - Developer
+- **Özge** - Developer
+- **Furkan** - Developer
 
 ## Ürün İsmi
 **Kroku**
