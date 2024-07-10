@@ -54,10 +54,13 @@
   
  - https://trello.com/invite/b/gnMLDmEk/ATTIe871e387c47e570cc3079d9548aa23783077FB2F/luminous-creations
 
+ - ![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/d92f2e05-481b-4347-8e07-2f73d701d08d)
+
 ## SS'LER :
 ![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/adc7bfe7-75ed-4ec4-9f5e-b2c7de77e5f4)
 
 ![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/2b48c275-ff48-4efc-87e8-72ee5ee6b832)
 
 ## Daliy Scrum ve Ss'ler
-![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/d92f2e05-481b-4347-8e07-2f73d701d08d)
+![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/1dd9d38b-019c-4926-8ade-17c6039939e5)
+
