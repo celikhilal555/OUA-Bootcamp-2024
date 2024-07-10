@@ -32,7 +32,7 @@
 
 - ## Sprint Notes
 
-- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - Daily Scrum: Discord üzerinden görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturulmuştur.
 
 ## Sprint içinde tamamlanması tahmin edilen puan: 12 Puan
