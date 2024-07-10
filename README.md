@@ -1,32 +1,31 @@
-### Takım İsmi Önerisi
-**Luminous Creations**
+# Luminous Creations
 
-### Takım Rolleri
+## Takım Üyeleri
 - **Ulaş Arif Demirdöven** - Proje Yöneticisi
 - **Hilal** - Yazılım ve Tasarım
 - **Özge** - Tasarım
 - **Furkan** - Yazılım
 
-### Ürün İsmi
+## Ürün İsmi
 **Kroku**
 
-### Ürün Açıklaması
+## Ürün Açıklaması
 "Kroku" gerçekçi sahneler yaratmaya odaklanan, ışık ve ses sistemlerini en iyi şekilde kullanarak oyunculara eşsiz bir deneyim sunmayı amaçlayan yenilikçi bir oyundur. Kısa ancak etkileyici bir oynanış sunar, oyuncuları anında içine çeker ve unutulmaz anlar yaşatır.
 
-### Ürün Özellikleri
-1. **Gelişmiş Işıklandırma Sistemi**: Oyundaki tüm sahneler, gerçekçi ve atmosferik bir deneyim sunmak için özel olarak tasarlanmış ışıklandırma efektleriyle desteklenir.
-2. **Dinamik Ses Efektleri**: Oyuncunun hareketlerine ve çevresel değişikliklere anında tepki veren, sürükleyici bir ses sistemi.
-3. **Gerçekçi Grafikler**: Yüksek çözünürlüklü tekstürler ve detaylı çevre tasarımı ile göz alıcı görseller.
-4. **Etkileyici Hikaye Anlatımı**: Kısa fakat yoğun bir hikaye ile oyuncuyu içine çeken oyun senaryosu.
-5. **Kolay Öğrenilen Oynanış**: Kullanıcı dostu arayüz ve kontroller ile her yaştan oyuncunun rahatça oynayabileceği bir deneyim.
-6. **Çoklu Dil Desteği**: Farklı dillerde oynanabilirlik sağlayarak geniş bir kitleye hitap eder.
+## Ürün Özellikleri
+- **Gelişmiş Işıklandırma Sistemi**: Oyundaki tüm sahneler, gerçekçi ve atmosferik bir deneyim sunmak için özel olarak tasarlanmış ışıklandırma efektleriyle desteklenir.
+- **Dinamik Ses Efektleri**: Oyuncunun hareketlerine ve çevresel değişikliklere anında tepki veren, sürükleyici bir ses sistemi.
+- **Gerçekçi Grafikler**: Yüksek çözünürlüklü tekstürler ve detaylı çevre tasarımı ile göz alıcı görseller.
+- **Etkileyici Hikaye Anlatımı**: Kısa fakat yoğun bir hikaye ile oyuncuyu içine çeken oyun senaryosu.
+- **Kolay Öğrenilen Oynanış**: Kullanıcı dostu arayüz ve kontroller ile her yaştan oyuncunun rahatça oynayabileceği bir deneyim.
+- **Çoklu Dil Desteği**: Farklı dillerde oynanabilirlik sağlayarak geniş bir kitleye hitap eder.
 
-### Hedef Kitle
+## Hedef Kitle
 - 15-35 yaş arası oyuncular
 - Hikaye odaklı ve atmosferik oyunları seven oyuncular
 - Yüksek kaliteli grafik ve ses deneyimi arayan oyun tutkunları
 
-### Product Backlog
+## Product Backlog
 1. **Işıklandırma Efektlerinin Geliştirilmesi**
    - Işık kaynakları ve gölge efektlerinin oluşturulması
    - Dinamik ışıklandırma ve ışık yansımaları
