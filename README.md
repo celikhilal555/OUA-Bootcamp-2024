@@ -25,6 +25,11 @@
 - Hikaye odaklı ve atmosferik oyunları seven oyuncular
 - Yüksek kaliteli grafik ve ses deneyimi arayan oyun tutkunları
 
+##Sprint Notes
+
+-Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+-Daily Scrum: Discord üzerinden görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturulmuştur.
+
 ## SPRINT 1
 - Tasarım ve Developing Mantığı: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
 - Tasarım Grubu Üyeleri: Ulaş, Hilal, Özge.
