@@ -1,7 +1,7 @@
 # Luminous Creations
 
 ## Takım Üyeleri
-- **Ulaş ** - Proje Yöneticisi
+- **Ulaş** - Proje Yöneticisi
 - **Hilal** - Yazılım ve Tasarım
 - **Özge** - Tasarım
 - **Furkan** - Yazılım
