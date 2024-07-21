@@ -43,7 +43,7 @@
 ## Sprint Review:
 
 - Map ve karakterlerin sayısına, High poly bir tasarım diline hakim olmasına karar verilmiştir.
-- Sprint Review Katılımcıları: Ulaş Arif Demirdöven, Hilal Karakuş, Özge, Furkan.
+- Sprint Review Katılımcıları: Ulaş Arif Demirdöven, Hilal Karakuş, Özge Sarıtemur, Furkan Lütfü Batakçı.
 
 ## Sprint Retrospective:
 
@@ -64,3 +64,25 @@
 ## Daily Scrum ve Ss'ler
 ![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/1dd9d38b-019c-4926-8ade-17c6039939e5)
 
+## Sprint 2
+
+- Oyun hikayesi Netleşti.
+- Oyun karakteri oluşturuldu.
+- Kamera takip sistemi yapıldı.
+
+- Karakter kontrolleri yapıldı.
+- Çevre düzenlendi ve optimize edildi.
+- Karakterle belirli eşyaları toplama eklendi.
+
+- Bazı sesler eklendi(test aşamasında)
+- UI Görsellerine başlandı.
+- Yeni mekaniklere(düşmanlar vs.) başlandı.
+
+## SS'LER :
+
+![Ekran görüntüsü 2024-07-21 182602](https://github.com/user-attachments/assets/344c7258-1309-48e0-b7d9-626e909910a1)
+![Ekran görüntüsü 2024-07-21 182546](https://github.com/user-attachments/assets/d3e359be-39be-4db9-ad20-1a23a6c5ed2e)
+![Ekran görüntüsü 2024-07-21 182530](https://github.com/user-attachments/assets/f9b20cf3-f9cb-45c9-8077-c02767d67263)
+![Ekran görüntüsü 2024-07-21 182511](https://github.com/user-attachments/assets/edc385db-614c-42a1-b2cd-66907ce5f426)
+![Ekran görüntüsü 2024-07-21 182721](https://github.com/user-attachments/assets/a7b74bef-6dfe-4b73-ade3-15b3886a14f0)
+![Ekran görüntüsü 2024-07-21 182649](https://github.com/user-attachments/assets/946a5694-190c-489a-85e8-9c619d23f2c9)
