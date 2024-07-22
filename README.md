@@ -91,7 +91,6 @@
 ## Sprint Review:
 
 - Oyun hikayesi yazıldı oyuna eklenme aşamasında.
-- Sprint Review Katılımcıları: Ulaş Arif Demirdöven, Hilal Karakuş, Özge Sarıtemur, Furkan Lütfü Batakçı.
 
 ## Sprint Retrospective:
 
