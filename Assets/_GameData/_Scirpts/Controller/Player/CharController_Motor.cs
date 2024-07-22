@@ -14,8 +14,12 @@ public class CharController_Motor : MonoBehaviour {
 	public bool webGLRightClickRotation = true;
 	float gravity = -9.8f;
 
+    private void Awake()
+    {
+        Cursor.visible = false;
+    }
 
-	void Start(){
+    void Start(){
 		//LockCursor ();
 		character = GetComponent<CharacterController> ();
 		if (Application.isEditor) {
