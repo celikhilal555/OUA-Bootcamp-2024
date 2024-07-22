@@ -80,7 +80,7 @@
 
  ## Sprint Notes
 
-- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. 2. Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - Oyunun genel durumu oturmuştur ve dateline için hedefler berirlenmiştir.
 
 ## Sprint içinde tamamlanması tahmin edilen puan: 12 Puan
@@ -90,12 +90,15 @@
 
 ## Sprint Review:
 
-- Oyun hikayesi yazıldı oyuna eklenme aşamasında.
+- Işık sistemi detaylı incelendi oyuna eklenme aşamasında.
 
 ## Sprint Retrospective:
 
 - Tasarım kısmında gerekli assetler ve yapılması gereken modeller yapıldı oyuna eklenme aşamasında.
 - Karakterin hareket animasyonları ve mekanikleri ekleniyor.
+
+- ![image](https://github.com/user-attachments/assets/2ba10b81-29c3-4756-9dd6-176fe8fc4dc4)
+
 
 ## SS'LER :
 
