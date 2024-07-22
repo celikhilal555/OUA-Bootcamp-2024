@@ -98,8 +98,6 @@
 - Karakterin hareket animasyonları ve mekanikleri ekleniyor.
 
 - ![image](https://github.com/user-attachments/assets/2ba10b81-29c3-4756-9dd6-176fe8fc4dc4)
-  
-- ![image](https://github.com/user-attachments/assets/864616b5-46ab-4b98-85e4-8b8f2db8ff3e)
 
 - ![image](https://github.com/user-attachments/assets/fc3eb70e-6334-42de-82f3-eaae8bc63da7)
 
