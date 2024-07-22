@@ -64,7 +64,7 @@
 ## Daily Scrum ve Ss'ler
 ![image](https://github.com/celikhilal555/OUA-Bootcamp-2024/assets/48593494/1dd9d38b-019c-4926-8ade-17c6039939e5)
 
-## Sprint 2
+## SPRINT 2
 
 - Oyun hikayesi Netleşti.
 - Oyun karakteri oluşturuldu.
@@ -77,6 +77,26 @@
 - Bazı sesler eklendi(test aşamasında)
 - UI Görsellerine başlandı.
 - Yeni mekaniklere(düşmanlar vs.) başlandı.
+
+ ## Sprint Notes
+
+- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- Oyunun genel durumu oturmuştur ve dateline için hedefler berirlenmiştir.
+
+## Sprint içinde tamamlanması tahmin edilen puan: 12 Puan
+
+- Daily Scrum: Daily Scrum toplantıları hem WhatsApp üzerinden hem de Discord üzerinden devam etmiştir. Discord'da haftada birgün toplantılar yapılıyor.
+- Tasarım Discord Grubu Mantığı: Grup içerisinde haritaların ve karakterlerin görsel dili tamamen oturtulmuştur. Oyuna eklenme aşamasındadır.
+
+## Sprint Review:
+
+- Oyun hikayesi yazıldı oyuna eklenme aşamasında.
+- Sprint Review Katılımcıları: Ulaş Arif Demirdöven, Hilal Karakuş, Özge Sarıtemur, Furkan Lütfü Batakçı.
+
+## Sprint Retrospective:
+
+- Tasarım kısmında gerekli assetler ve yapılması gereken modeller yapıldı oyuna eklenme aşamasında.
+- Karakterin hareket animasyonları ve mekanikleri ekleniyor.
 
 ## SS'LER :
 
