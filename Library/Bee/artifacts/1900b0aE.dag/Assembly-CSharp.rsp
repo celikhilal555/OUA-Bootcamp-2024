@@ -406,6 +406,7 @@
 "Assets/AssetData/Flooded_Grounds/Scripts/DisableRenderer.cs"
 "Assets/AssetData/Flooded_Grounds/Scripts/FPSDisplay.cs"
 "Assets/AssetData/Flooded_Grounds/Scripts/WaterFloat.cs"
+"Assets/Starfield Skybox/Demo/Script/LookCamera.cs"
 "Assets/_GameData/_Scirpts/Controller/Player/CharController_Motor.cs"
 "Assets/_GameData/_Scirpts/Controller/Player/ItemCollectController.cs"
 -langversion:9.0

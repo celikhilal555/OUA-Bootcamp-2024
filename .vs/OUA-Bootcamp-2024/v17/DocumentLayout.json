@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Unity Project\\Bootcamp\\OUA-Bootcamp-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DF70CF3-4944-C8FC-9588-9655237538D1}|Assembly-CSharp-Editor.csproj|d:\\unity project\\bootcamp\\oua-bootcamp-2024\\assets\\flooded_grounds\\postprocessing\\editor\\propertydrawers\\mindrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DF70CF3-4944-C8FC-9588-9655237538D1}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\flooded_grounds\\postprocessing\\editor\\propertydrawers\\mindrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B260D80A-3610-6BF4-207A-C0118AA75341}|Assembly-CSharp.csproj|d:\\unity project\\bootcamp\\oua-bootcamp-2024\\assets\\_gamedata\\_scirpts\\controller\\player\\charcontroller_motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B260D80A-3610-6BF4-207A-C0118AA75341}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamedata\\_scirpts\\controller\\player\\charcontroller_motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B260D80A-3610-6BF4-207A-C0118AA75341}|Assembly-CSharp.csproj|d:\\unity project\\bootcamp\\oua-bootcamp-2024\\assets\\_gamedata\\_scirpts\\controller\\player\\itemcollectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B260D80A-3610-6BF4-207A-C0118AA75341}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamedata\\_scirpts\\controller\\player\\itemcollectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MinDrawer.cs",
-              "DocumentMoniker": "D:\\Unity Project\\Bootcamp\\OUA-Bootcamp-2024\\Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
-              "RelativeDocumentMoniker": "Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
-              "ToolTip": "D:\\Unity Project\\Bootcamp\\OUA-Bootcamp-2024\\Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
-              "RelativeToolTip": "Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "ItemCollectController.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bootcamp\\OUA-Bootcamp-2024\\Assets\\_GameData\\_Scirpts\\Controller\\Player\\ItemCollectController.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameData\\_Scirpts\\Controller\\Player\\ItemCollectController.cs",
+              "ToolTip": "D:\\Unity Project\\Bootcamp\\OUA-Bootcamp-2024\\Assets\\_GameData\\_Scirpts\\Controller\\Player\\ItemCollectController.cs",
+              "RelativeToolTip": "Assets\\_GameData\\_Scirpts\\Controller\\Player\\ItemCollectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T11:43:59.395Z",
+              "WhenOpened": "2024-07-22T11:59:21.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharController_Motor.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bootcamp\\OUA-Bootcamp-2024\\Assets\\_GameData\\_Scirpts\\Controller\\Player\\CharController_Motor.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameData\\_Scirpts\\Controller\\Player\\CharController_Motor.cs",
+              "ToolTip": "D:\\Unity Project\\Bootcamp\\OUA-Bootcamp-2024\\Assets\\_GameData\\_Scirpts\\Controller\\Player\\CharController_Motor.cs",
+              "RelativeToolTip": "Assets\\_GameData\\_Scirpts\\Controller\\Player\\CharController_Motor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:56:40.914Z",
               "EditorCaption": ""
             }
           ]
