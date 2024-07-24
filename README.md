@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a92d2445-4bfa-4e01-a954-4ffbd47c22ed)# Luminous Creations
+# Luminous Creations
 
 ## Takım Üyeleri
 - **Ulaş** - Product Owner && Scrum Master
