@@ -83,6 +83,7 @@
     <Compile Include="Assets\AssetData\Flooded_Grounds\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
     <Compile Include="Assets\AssetData\Flooded_Grounds\PostProcessing\Runtime\Models\MotionBlurModel.cs" />
     <Compile Include="Assets\AssetData\Flooded_Grounds\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
+    <Compile Include="Assets\_GameData\_Scirpts\Controller\Items\FlashlightController.cs" />
     <Compile Include="Assets\AssetData\Flooded_Grounds\PostProcessing\Runtime\Components\TaaComponent.cs" />
     <Compile Include="Assets\AssetData\Flooded_Grounds\Scripts\DisableRenderer.cs" />
     <Compile Include="Assets\AssetData\Flooded_Grounds\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
