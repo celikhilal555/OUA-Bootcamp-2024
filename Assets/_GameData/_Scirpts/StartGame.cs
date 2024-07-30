@@ -11,4 +11,11 @@ public class StartGame : MonoBehaviour
     {
         panel.SetActive(false);
     }
+
+    public void Cikis()
+    {
+        Application.Quit();
+    }
+
+
 }
